@@ -6,5 +6,5 @@
 
 <br>
 <div>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,html,css,git,mongoDB" height="40" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,html,css,git,mongodb" height="40" />
 </div>
